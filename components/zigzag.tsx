@@ -110,7 +110,7 @@ export default function Zigzag() {
                   </div>
                   <h3 className="h3 mb-3">Power Up Your Productivity with AI-Powered Tools: Accuracy Meets Ease of Use</h3>
                   <p className="text-xl text-gray-400 mb-4">
-                  magine a world where technology does the heavy lifting, leaving you free to focus on what matters most. Artificial intelligence (AI) tools are making this vision a reality, offering a diverse range of solutions that are both remarkably accurate and delightfully user-friendly.
+                  Imagine a world where technology does the heavy lifting, leaving you free to focus on what matters most. Artificial intelligence (AI) tools are making this vision a reality, offering a diverse range of solutions that are both remarkably accurate and delightfully user-friendly.
                   </p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
